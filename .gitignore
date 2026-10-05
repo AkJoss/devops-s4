@@ -1,0 +1,27 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.exe
+*.dll
+*.pdb
+TestResults/
+*.trx
+
+## Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+## Shell practice outputs
+atributos.txt
+producto_*.csv
+
+## OS / IDE
+.DS_Store
+Thumbs.db
+.idea/

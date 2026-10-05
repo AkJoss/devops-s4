@@ -1,0 +1,5 @@
+producto 101 evento A
+producto 202 evento B
+producto 101 evento C
+producto 303 evento D
+producto 202 evento E
